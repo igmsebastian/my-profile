@@ -50,3 +50,14 @@
 - Clean architecture > quick hacks
 - Performance is a feature
 - Simplicity scales better than complexity
+
+---
+## 🐍 Contribution Snake
+---
+
+![snake gif](https://github.com/igmsebastian/my-profile/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/igmsebastian/my-profile/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/igmsebastian/my-profile/blob/output/github-contribution-grid-snake.svg">
+</picture>
