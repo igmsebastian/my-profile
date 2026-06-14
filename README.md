@@ -42,7 +42,7 @@
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/igmsebastian/
-- 🌐 Portfolio: -Coming Soon-
+- 🌐 Portfolio: https://heybasty.com
 - 📧 Email: igmsebastian@gmail.com
 
 ## 🧠 Engineering Philosophy
